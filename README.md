@@ -42,6 +42,3 @@ cd portfolio-website
 ```
 
 Open `index.html` in your browser, or use a local development server such as the VS Code **Live Server** extension.
-
-
-⭐ If you like this portfolio, consider giving the repository a star!
